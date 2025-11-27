@@ -13,7 +13,7 @@ Proyek ini dibuat untuk memenuhi tugas mata pelajaran **Administrasi Sistem Jari
 | Peran | Nama Lengkap | Kelas |
 | :--- | :--- | :--- |
 | **Ketua Kelompok** | ADITYA KUSTIAWAN  | XI TJKT 2 |
-| Anggota 1 | RANDHIKA  | XI TJKT 2 |
+| Anggota 1 | RANDHIKA RIYANSYAH | XI TJKT 2 |
 | Anggota 2 | MARYAM RIBI PERTIWI | XI TJKT 2 |
 | Anggota 2 | SARAH SAFITRI | XI TJKT 2 |
 | **Nama Sekolah/Institusi** | SMKN 1 SOREANG | |
